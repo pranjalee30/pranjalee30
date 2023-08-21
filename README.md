@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranjal Kumar 
-- 👀 I’m interested in  development 
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning MERN Stack,DSA,OpenCV.
 - 💞️ I’m a robotics enthusiatic
 - 📫 Contact me :- pranjalk449@gmail.com
